@@ -16,7 +16,7 @@ My name is Bijay and here's a little information about me-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---->
+<!--
 ## Hi there 👋
 
 My name is Mahmud and here's a little information about me-
