@@ -4,20 +4,20 @@
 **Scholar-Bijay/Scholar-Bijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Bijay and here's a little information about me -
-- 🔗 Past Experience - ![Ex-Employee](http://img.shields.io/badge/-SAP-008FD3?labelColor=yellow&style=flat-square&logo=SAP) 
+- 🔗 Past Experience - ![Ex-Employee](http://img.shields.io/badge/-SAP-008FD3?labelColor=White&style=flat-square&logo=SAP) 
 
-- 👯 My native language - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)    ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)  ![Java](https://img.shields.io/badge/-Java-black?labelColor=2F2625&style=flat-square&logo=java)
+- 👯 My native language - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)    ![Python](https://img.shields.io/badge/-Python-3776AB?labelColor=White&style=flat-square&logo=Python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?labelColor=Black&style=flat-square&logo=JavaScript)  ![Java](https://img.shields.io/badge/-Java-007396?labelColor=007396&style=flat-square&logo=java)
   
-- 🔭 I’m currently working on - ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python) ![Pandas](http://img.shields.io/badge/-Pandas-150459?labelColor=yellow&style=flat-square&logo=Pandas)   ![Git](http://img.shields.io/badge/-Git-F05032?labelColor=yellow&style=flat-square&logo=Git) ![Anaconda](http://img.shields.io/badge/-Anaconda-42B029?labelColor=yellow&style=flat-square&logo=Anaconda)  
+- 🔭 I’m currently working on - ![Python](https://img.shields.io/badge/-Python-3776AB?labelColor=White&style=flat-square&logo=Python) ![Pandas](http://img.shields.io/badge/-Pandas-150459?labelColor=Purple&style=flat-square&logo=Pandas)   ![Git](http://img.shields.io/badge/-Git-F05032?labelColor=White&style=flat-square&logo=Git) ![Anaconda](http://img.shields.io/badge/-Anaconda-42B029?labelColor=White&style=flat-square&logo=Anaconda)  
 
-- 🌱 I’m currently learning  -   ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?labelColor=yellow&style=flat-square&logo=MongoDB)   ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?labelColor=yellow&style=flat-square&logo=PyTorch) ![Heroku](http://img.shields.io/badge/-Heroku-430098?labelColor=yellow&style=flat-square&logo=Heroku) ![Amazon AWS](http://img.shields.io/badge/-Amazon%20AWS-232F3E?labelColor=yellow&style=flat-square&logo=Amazon%20AWS) ![PyTorch](http://img.shields.io/badge/-TensorFlow-FF6F00?labelColor=yellow&style=flat-square&logo=TensorFlow)
+- 🌱 I’m currently learning  -   ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?labelColor=White&style=flat-square&logo=MongoDB)   ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?labelColor=White&style=flat-square&logo=PyTorch) ![Heroku](http://img.shields.io/badge/-Heroku-430098?labelColor=yellow&style=flat-square&logo=Heroku) ![Amazon AWS](http://img.shields.io/badge/-Amazon%20AWS-232F3E?labelColor=232F3E&style=flat-square&logo=Amazon%20AWS) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-FF6F00?labelColor=White&style=flat-square&logo=TensorFlow)
 
 - 🔧 Tools I use -
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-Black?style=flat-square&logo=IntelliJ+IDEA)
-  ![Eclipse](http://img.shields.io/badge/-Eclipse%20IDE-2C2255?labelColor=yellow&style=flat-square&logo=Eclipse%20IDE)
-  ![GitHub](http://img.shields.io/badge/-GitHub-181717?labelColor=yellow&style=flat-square&logo=GitHub)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ+IDEA)
+  ![Eclipse](http://img.shields.io/badge/-Eclipse%20IDE-2C2255?labelColor=2C2255&style=flat-square&logo=Eclipse%20IDE)
+  ![GitHub](http://img.shields.io/badge/-GitHub-181717?labelColor=181717&style=flat-square&logo=GitHub)
 
 - 👯 I’m looking to collaborate on - Any Project Related to Data Science, Machine Learning, Deep Larning, Artificial Intelligence, Statistics, Maths Behind Data Science 
 
