@@ -19,7 +19,7 @@ My name is Bijay and here's a little information about me -
   ![Eclipse](http://img.shields.io/badge/-Eclipse%20IDE-2C2255?labelColor=2C2255&style=flat-square&logo=Eclipse%20IDE)
   ![GitHub](http://img.shields.io/badge/-GitHub-181717?labelColor=181717&style=flat-square&logo=GitHub)
 
-- 👯 I’m looking to collaborate on - Any Project Related to Data Science, Machine Learning, Deep Larning, Artificial Intelligence, Statistics, Maths Behind Data Science 
+- 👯 I’m looking to collaborate on - Any Project Related to Data Science, Machine Learning, Deep Learning, Artificial Intelligence, Statistics, Maths Behind Data Science 
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
