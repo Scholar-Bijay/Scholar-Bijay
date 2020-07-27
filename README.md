@@ -12,7 +12,7 @@ My name is Bijay and here's a little information about me -
 
 - 🌱 I’m currently learning  -   ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?labelColor=yellow&style=flat-square&logo=MongoDB)   ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?labelColor=yellow&style=flat-square&logo=PyTorch) ![Heroku](http://img.shields.io/badge/-Heroku-430098?labelColor=yellow&style=flat-square&logo=Heroku) ![Amazon AWS](http://img.shields.io/badge/-Amazon%20AWS-232F3E?labelColor=yellow&style=flat-square&logo=Amazon%20AWS) ![PyTorch](http://img.shields.io/badge/-TensorFlow-FF6F00?labelColor=yellow&style=flat-square&logo=TensorFlow)
 
-🔧 Tools I use -
+- 🔧 Tools I use -
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-Black?style=flat-square&logo=IntelliJ+IDEA)
@@ -57,6 +57,9 @@ My name is Bijay and here's a little information about me -
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bijaykahar/)
 ### Profile Overview
 
-[![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/Scholar-Bijay/Scholar-Bijay)
+![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=Scholar-Bijay&show_icons=true&theme=radical&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/Scholar-Bijay/Scholar-Bijay)
+<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar-Bijay&theme=tokyonight)
