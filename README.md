@@ -3,8 +3,10 @@
 <!--
 **Scholar-Bijay/Scholar-Bijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Bijay and here's a little information about me-
 
+- 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
+  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
