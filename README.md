@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Scholar-Bijay/Scholar-Bijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Scholar-Bijay/Scholar-Bijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Bijay and here's a little information about me-
 
@@ -15,8 +15,8 @@ My name is Bijay and here's a little information about me-
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
+<!---->
 ## Hi there 👋
 
 My name is Mahmud and here's a little information about me-
@@ -72,3 +72,6 @@ My name is Mahmud and here's a little information about me-
 [![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/mahmudx)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/mahmudx)
+
+
+-->
