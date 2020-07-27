@@ -3,75 +3,60 @@
 <!--
 **Scholar-Bijay/Scholar-Bijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-My name is Bijay and here's a little information about me-
+My name is Bijay and here's a little information about me -
+- 🔗 Past Experience - ![Ex-Employee](http://img.shields.io/badge/-SAP-008FD3?labelColor=yellow&style=flat-square&logo=SAP) 
 
-- 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
-  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 My native language - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)    ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)  ![Java](https://img.shields.io/badge/-Java-black?labelColor=2F2625&style=flat-square&logo=java)
+  
+- 🔭 I’m currently working on - ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python) ![Pandas](http://img.shields.io/badge/-Pandas-150459?labelColor=yellow&style=flat-square&logo=Pandas)   ![Git](http://img.shields.io/badge/-Git-F05032?labelColor=yellow&style=flat-square&logo=Git) ![Anaconda](http://img.shields.io/badge/-Anaconda-42B029?labelColor=yellow&style=flat-square&logo=Anaconda)  
 
-<!--
-## Hi there 👋
+- 🌱 I’m currently learning  -   ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?labelColor=yellow&style=flat-square&logo=MongoDB)   ![PyTorch](http://img.shields.io/badge/-PyTorch-EE4C2C?labelColor=yellow&style=flat-square&logo=PyTorch) ![Heroku](http://img.shields.io/badge/-Heroku-430098?labelColor=yellow&style=flat-square&logo=Heroku) ![Amazon AWS](http://img.shields.io/badge/-Amazon%20AWS-232F3E?labelColor=yellow&style=flat-square&logo=Amazon%20AWS) ![PyTorch](http://img.shields.io/badge/-TensorFlow-FF6F00?labelColor=yellow&style=flat-square&logo=TensorFlow)
 
-My name is Mahmud and here's a little information about me-
-
-- 🔭 My native language - ![C Sharp](https://img.shields.io/badge/-C%20Sharp-black?labelColor=239120&style=flat-square&logo=C+Sharp) ![XAML](https://img.shields.io/badge/-XAML-black?labelColor=0C54C2&style=flat-square&logo=XAML)
-  ![Python](https://img.shields.io/badge/-Python-Black?labelColor=EEED09&style=flat-square&logo=Python)
-
-- 🌱 I’m currently learning - ![Java](https://img.shields.io/badge/-Java-black?labelColor=2F2625&style=flat-square&logo=java)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B)
-  ![Xamarin](https://img.shields.io/badge/-Xamarin-3498DB?style=flat-square&logo=Xamarin&logoColor=White)
-- 🔧 Tools I use -
+🔧 Tools I use -
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-Black?style=flat-square&logo=IntelliJ+IDEA)
-- 😊 Familiar with - ![C](https://img.shields.io/badge/-C-black?labelColor=A8B9CC&style=flat-square&logo=C&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS3) ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  ![Eclipse](http://img.shields.io/badge/-Eclipse%20IDE-2C2255?labelColor=yellow&style=flat-square&logo=Eclipse%20IDE)
+  ![GitHub](http://img.shields.io/badge/-GitHub-181717?labelColor=yellow&style=flat-square&logo=GitHub)
+
+- 👯 I’m looking to collaborate on - Any Project Related to Data Science, Machine Learning, Deep Larning, Artificial Intelligence, Statistics, Maths Behind Data Science 
+
+<!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
-- 📫 How to reach me: mail@mahmudnotes.com `or` mahmudnotes@outlook.com
+- 📫 How to reach me: bijaykahar.005@gmail.com  'or' ![Watsaap](http://img.shields.io/badge/-25D366?labelColor=white&style=square&logo=WhatsApp) +91-8759444991 
 
-- 🔗 My domains - [mahmudNotes](http://mahmudnotes.com) `and` [MahmudX](http://mahmudx.com) `or` [MahmudXAzure](http://mahmudx.azurewebsites.net)
-
-- 😄 Pronouns: The 'H' in my name has to cover. Computer Ai skips that 'H' and pronounces my name as Mamudul Hasan 😕
-
+- 😄 Pronouns: 
+              - My Name is "Bijay", But the amount of times People Call me "Vijay" if they have paid \$1 every time for the mispronunciation i would have become millennial.
+              
 - ⚡ Fun fact:
-  - I can't sleep without closing my eyes.
-  - I spent \$30 to earn 0.00000008 BTC
+              - I spent \$5000 into CryptoCurreny during (2017-Sept to 2019-Jan) and Government Banned CryptoCurrency and I sold all my portfolios @-17% Loss to a Singapore                       Broker for Converting into Indian Cash(Non-Taxable as less than 5 lac).  2020 Apr Supreme Court Allowed CryptoCurrency.
+
 
 ### Skills
 
 ```JSON
 {
+ "languages"  : ["C++", "Java", "Python", "TypeScript", "JavaScript"],
+  "backend"   : ["Python","Java"],
+  "dbms"       : ["MySQL", "SQLite", "Postgres SQL", "MongoDB", "🤣😂"],
   "platform"   : ["UWP", "WPF", "Web", "Console 😆"],
-  "backend"    : ["ASP.NET"],
   "cms"        : ["WordPress"],
-  "dbms"       : ["MySQL", "SQLite", "Array", "LinkedList", "JSON", "🤣😂"],
-  "languages"  : ["C#", "Java", "Python", "TypeScript", "JavaScript", "C", "C++"],
-  "frameworks" : [".NET Core 3.1"],
-  "libraries"  : ["Selenium", "BeautifulSoup", "Pandas"],
-  "ui"         : ["Material-ui", "Bootstrap"],
-  "cloud"      : ["Azure", "AWS"]
+  "frameworks" : ["Spring","SAP UI5","Django"],
+  "libraries"  : ["Numpy", "Seaborn", "Pandas","Skipy","Metrics",""],
+  "ui"         : ["Html","Css","JavaScript","Bootstrap","Angular5"],
+  "cloud"      : ["SAP Cloud Foundation"]
 }
 ```
 
 ### Social
 
-![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)
-
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/mahmudxyz) [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz) [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/mahmudofficialid) [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/6662984/mahmudul-hasan)
-
+[![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)](https://github.com/Scholar-Bijay/Scholar-Bijay)
+<!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz)  -->
+[![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kingbijaykahar/) 
+[![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/12635378/bijay-kahar)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bijaykahar/)
 ### Profile Overview
 
-[![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/mahmudx)
+[![MahmudX's github stats](https://github-readme-stats.vercel.app/api?username=mahmudx&theme=tokyonight&show_icons=true)](https://github.com/Scholar-Bijay/Scholar-Bijay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/mahmudx)
-
-
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmudx&theme=tokyonight)](https://github.com/Scholar-Bijay/Scholar-Bijay)
