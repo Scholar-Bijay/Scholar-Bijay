@@ -50,16 +50,16 @@ My name is Bijay and here's a little information about me -
 
 ### Social
 
-[![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)](https://github.com/Scholar-Bijay/Scholar-Bijay)
+[![GitHub followers](https://img.shields.io/github/followers/mahmudx?style=flat-square&logo=GitHub&label=Follow&color=0077B5&labelColor=black)](https://github.com/bijaykahar/bijaykahar)
 <!-- [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/mahmudxyz)  -->
 [![Facebook Follow](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/kingbijaykahar/) 
 [![Stackoverflow](https://img.shields.io/badge/%20-Questions-black?labelColor=FE7A16&logo=Stack%20Overflow&logoColor=fff)](https://stackoverflow.com/users/12635378/bijay-kahar)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0077B5&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/bijaykahar/)
 ### Profile Overview
 
-![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=Scholar-Bijay&show_icons=true&theme=radical&count_private=true)
+![Bijay's github stats](https://github-readme-stats.vercel.app/api?username=bijaykahar&show_icons=true&theme=radical&count_private=true)
 
 <!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scholar-Bijay&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijaykahar&theme=tokyonight)
